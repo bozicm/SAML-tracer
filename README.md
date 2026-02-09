@@ -1,7 +1,7 @@
 SAML-tracer
 ===========
 
-SAML-tracer is a browser extension, available from the Firefox and Chrome
+SAML-tracer is a browser extension, available from the [Firefox](https://addons.mozilla.org/en-US/firefox/addon/saml-tracer/) and [Chrome](https://chromewebstore.google.com/detail/mpdajninpobndbfcldcmbpnnbhibjmch)
 extension stores, that aims to make debugging of SAML- and 
 WS-Federation-communication between websites easier. 
 It is a request logger that in addition to showing normal requests, 
